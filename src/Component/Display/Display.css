@@ -1,0 +1,25 @@
+.password-generator-conainer{
+    background-color: red;
+    padding: 35px;
+}
+.copy-btn,.generate-btn{
+    background: none;
+    border: none;
+    color: #ffffff;
+}
+.handle-btn li{
+    display: inline-block
+}
+.password-display-input{
+    background-color: inherit;
+    outline: none !important;
+    border: none !important;
+    color: #ffffff;
+    font-weight: 600;
+}
+.password-display-input::selection{
+    background: none !important;
+}
+.password-btn{
+    background-color: red !important;
+}
